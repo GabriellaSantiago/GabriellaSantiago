@@ -1,4 +1,4 @@
-# 👋 Olá, sou Gabriella Santiago!
+#  Olá, sou Gabriella Santiago!
 
 💻 **Analista de Suporte | Focada em Desenvolvimento Full Stack**  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas** na PUC Minas  
@@ -25,5 +25,7 @@ Fique de olho nos meus repositórios! 🚀
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gabbsantiago/).  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriellasantiago61@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531993456464)  
+
+
 
 
