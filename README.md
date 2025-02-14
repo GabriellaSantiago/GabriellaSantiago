@@ -2,7 +2,7 @@
 
 💻 **Analista de Suporte | Focada em Desenvolvimento Full Stack**  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas** na PUC Minas  
-🚀 Explorando **TypeScript | Node.js | React**  
+🚀 Explorando **TypeScript |React | Node.js**  
 📍 Belo Horizonte, MG
 
 ## 🔧 Tecnologias & Ferramentas  
