@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Gabriella Santiago
 
-**Focada em Desenvolvimento Full Stack**  
+**Focada em Desenvolvimento Back End**  
 
-Me chamo Gabriella Santiago, sou de Belo Horizonte e tenho uma paixão enorme por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Sou focada no desenvolvimento Full Stack e estou explorando TypeScript, React, PHP, Python e Node.js.
+Me chamo Gabriella Santiago, sou de Belo Horizonte e tenho uma paixão enorme por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Estou focada em desenvolvimento Back End e estou explorando TypeScript, React, PHP, Python e Node.js.
 
 <a href = "mailto:gabriellasantiago61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriella-santiago01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
