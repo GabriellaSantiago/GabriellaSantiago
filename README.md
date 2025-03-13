@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriella Santiago
 
-**Desenvolvimento Front End**  
+**Desenvolvedora Web**  
 
 Me chamo Gabriella Santiago, sou de Belo Horizonte e apaixonada por tecnologia. Estudo Análise e Desenvolvimento de Sistemas na PUC Minas e estou em constante aprendizado no desenvolvimento Front End com TypeScript, React, PHP, Python e Node.js.
 
