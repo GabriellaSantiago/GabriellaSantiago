@@ -25,7 +25,7 @@ Oi! Me chamo Gabriella Santiago, sou de Belo Horizonte e apaixonada por tecnolog
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠  Linguagens e Ferramentas</h3>
 
 ###
 
