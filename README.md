@@ -21,7 +21,7 @@
 <h3 align="left">🧑🏻‍💻  Sobre Mim</h3>
 
 ###
-Oi! Me chamo Gabriella Santiago, sou de Belo Horizonte e apaixonada por tecnologia.<br><br>Atualmente estudo Análise e Desenvolvimento de Sistemas na PUC Minas e faço parte do DevClub, onde estou aprendendo desenvolvimento do zero até o avançado, com foco em me tornar uma desenvolvedora Full Stack.<br><br>- 🔭 Dando os primeiros passos na programação, com foco em me tornar uma dev Full Stack  <br>- 📚 Estudando TypeScript, React, PHP, Python e Node.js  <br>- ⚡ No tempo livre, gosto de criar projetos, aprender coisas novas e tomar um bom café<br><br>Busco crescer na área tech com soluções criativas e que façam a diferença!</p>
+Oi! Me chamo Gabriella Santiago, sou de Belo Horizonte e apaixonada por tecnologia.<br><br>Atualmente estudo Análise e Desenvolvimento de Sistemas na PUC Minas e faço parte do DevClub, onde estou aprendendo desenvolvimento do zero até o avançado<br><br>- 🔭 Dando os primeiros passos na programação, com foco em me tornar uma dev Full Stack  <br>- 📚 Estudando TypeScript, React, Python e Node.js  <br>- ⚡ No tempo livre, gosto de criar projetos, aprender coisas novas e tomar um bom café<br><br>Busco crescer na área tech com soluções criativas e que façam a diferença!</p>
 
 ###
 
